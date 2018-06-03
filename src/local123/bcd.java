@@ -6,6 +6,7 @@ public class bcd {
 		// TODO Auto-generated method stub
 		System.out.println("i luv u");
 		// This for test 1
+		System.out.println("Live life happily");
 
 	}
 
